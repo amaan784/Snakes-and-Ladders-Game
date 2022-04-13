@@ -165,6 +165,7 @@ if __name__ == '__main__':
 # (B) one with full user play turn by turn and fixed snakes and ladders,
 # (C) one with full user play turn by turn and changing snakes and ladders (reliation on random)
 # (D) linked list or other data structure implementation
+# (E) graph implmentation from CSE 102
 
 
 ######## for snakes and ladders generation
